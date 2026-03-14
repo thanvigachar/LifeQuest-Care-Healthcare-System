@@ -91,6 +91,13 @@ cd LifeQuest-Care-Healthcare-System
 ### Install Dependencies
 
 Install the required packages:
+
+npm install
+
+### Run the Application
+
+Start the server:
+
 npm start
 
 
